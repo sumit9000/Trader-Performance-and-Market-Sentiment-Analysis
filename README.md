@@ -8,7 +8,7 @@ This project explores the relationship between trader performance and market sen
 The objective is to uncover patterns and deliver insights that can help in developing smarter trading strategies. The Python script performs data cleaning, merges the two datasets, and generates visualizations to analyze performance against market sentiment.
 
 # Getting Started
---- 
+
 Prerequisites
 To run the analysis, you will need a Python environment with the following libraries installed:
 
