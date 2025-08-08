@@ -1,9 +1,9 @@
 # Trader-Performance-and-Market-Sentiment-Analysis
 This project explores the relationship between trader performance and market sentiment using two primary datasets:
 
-### Bitcoin Market Sentiment Dataset (fear_greed_index.csv): Contains daily sentiment classifications (e.g., "Fear," "Neutral," "Greed").
+### 1. Bitcoin Market Sentiment Dataset (fear_greed_index.csv): Contains daily sentiment classifications (e.g., "Fear," "Neutral," "Greed").
 
-### Historical Trader Data (historical_data.csv): Includes details on individual trades, such as execution price, size, side (Buy/Sell), and Closed PnL (Profit and Loss).
+### 2.Historical Trader Data (historical_data.csv): Includes details on individual trades, such as execution price, size, side (Buy/Sell), and Closed PnL (Profit and Loss).
 
 The objective is to uncover patterns and deliver insights that can help in developing smarter trading strategies. The Python script performs data cleaning, merges the two datasets, and generates visualizations to analyze performance against market sentiment.
 
